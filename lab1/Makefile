@@ -1,5 +1,3 @@
-# Makefile для лабораторной 1 (UDP Echo, Linux)
-
 CXX = g++
 CXXFLAGS = -Wall -Wextra -std=c++17
 TARGETS = server client
